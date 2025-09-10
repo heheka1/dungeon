@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <metadata type="poem" title="Ballad of Booker T." Author= "Langston Hughes" date="1941-06-02"/>
+    
+    <!-- it appears that this poem has an alternating rhyme scheme -->
+Booker T.
+    Was a practical <rhyme type="a"> man</rhyme>.
+He said, Till the soil
+And learn from the <rhyme type="a">land</rhyme>.
+ <repetition>Let down your bucket
+Where you <rhyme type="b">are </rhyme></repetition>.
+Your fate is here
+And not <rhyme type="b">afar </rhyme>.
+To help yourself
+And your fellow <rhyme type="c">man</rhyme>,
+    <repetition>Train your head,
+    Your heart, and your <rhyme type="c">hand</rhyme>.</repetition>
+For smartness alone's
+Surely not <rhyme type="d">meet</rhyme>—
+If you haven't at the same time
+Got something to <rhyme type="d">eat</rhyme>.
+<event>hus at Tuskegee
+He built a <rhyme type="e">school</rhyme></event>
+With book-learning there
+And the workman's <rhyme type="e">tool</rhyme>.
+He started out
+In a simple <rhyme type="f">way</rhyme>—
+For yesterday
+Was not <rhyme type="f">today</rhyme>.
+Sometimes he had
+Compromise in his <rhyme type="g">talk</rhyme>—
+For a man must crawl
+Before he can <rhyme type="g">walk</rhyme>—
+<event>And in Alabama in '<rhyme type="h">85</rhyme></event>
+A joker was lucky
+To be <rhyme type="h">live</rhyme>a.
+But Booker T.
+Was nobody's <rhyme type="i">fool</rhyme>:
+You may carve a dream
+With an humble <rhyme type="i">tool</rhyme>.
+The tallest tower
+Can tumble <rhyme type="j">down</rhyme>
+If it be not rooted
+In solid <rhyme type="j">ground</rhyme>.
+So, being a far-seeing
+Practical <rhyme type="k">man</rhyme>,
+<repetition>He said, Train your head,
+    Your heart, and your <rhyme type="k">hand</rhyme>.</repetition>
+Your fate is here
+And not <rhyme type="l">afar</rhyme>,
+<repetition>So let down your bucket
+    Where you <rhyme type="l">are</rhyme></repetition>.
+<info>LANGSTON HUGHES
+Final Draft,
+Hollow Hills Farm,
+Monterey, California,
+June 1, 1941.</info>
+</root>
