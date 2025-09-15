@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root><date type="1804-03-09">Albany March 9, 1804</date>
+    <!--one thing to note is that on the side of page one in the margin there are 
+    words written that were scribbled out-->
     <salutations>My Dear friend</salutations>
     I am just going to proceed in the stage for <place kind="city or state">New York</place>. However, I must endeavor first to give you some account 
 of my journey this far, through a country which was once the seat of your ancestors; 
 but that is now covered with European settlements,
-whose persevering industry has greatly changed the face of the country; and forests continue to disappear 
+whose <word interpretation="questionable">persevering</word> industry has greatly changed the face of the country; and forests continue to disappear 
 before the efforts of the laborious woodman. Is there any thing in their change to 
 call for the sensations of sorrow in the breast of the philanthropic patriot? 
 if there is, it is not because the inanimate clod has changed possessors, 
@@ -16,10 +18,10 @@ acquired more vir-tuous knowledge from their enlightened neighbours,
 they might have obtained such compensation and retained such reserves which properly disposed of after
 the settle-ment of the country, when the value of land had raised; might have enabled them to have 
 established a fund for the support and promotion of industrious in our present territory
-But to return to my journey – I left Niagara and parted with my friends with I know not what mixed impressions of joy and 
-grief – which seemed to urge me with greater expedition to proceed & rendered it exceeding unpleasant for me to make any delay.
+But to return to my journey – I left <place kind="city">Niagara</place> and parted with my friends with I know not what mixed impressions of joy and 
+grief – which seemed to urge me with greater expedition to proceed &amp; rendered it exceeding unpleasant for me to make any delay.
 However as agree-ably as the situation of my mind would allow of, I passed one day at Canandarque (sp. Canadaque) mostly in the company of 
-Mr. & Mrs. Morris & Mr. Greig, a gentleman from Scotland, who had always honored (p.12) me with every hospitable and 
+Mr. &amp; Mrs. Morris &amp; Mr. Greig, a gentleman from Scotland, who had always honored (p.12) me with every hospitable and 
 polite attention whenever business called me to these parts. My friend Ihaskoghsage was not at home, 
 but I obtained of that which was due a sufficiency to enable me to attempt my voyage from the gentleman who manages his affairs. 
 At the Inn where I stop a Man put up who told me he was going the way I proposed to go and that I might obtain a passage in his sleigh.
