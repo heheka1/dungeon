@@ -1,0 +1,19 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = xml
+xml = element xml {source, poem}
+source = element source {title, author?, date?}
+author = element author {text}
+title = element title {level, text}
+level= attribute level {"book" | "inner"}
+poem = element poem {title, lg+}
+n = attribute n {xsd:integer}
+place = element place {ref, text}
+ref= attribute ref {"NYC-Harlem" | "NYC-Man" |"NYC-PennSt"| "PR"| "Cuba"|"Ha"| "Ja"| "NYC"| "Ga"| "Fla"| "La"|"NYC-Brook"|"NYC-Bronx"}
+lg= element lg {ln+}
+ln=element ln {n, mixed{(place| placeName| motif)* }}
+motif= element motif {text}
+placeName = element placeName {ref, text}
+date = element date {when}
+datePattern= (xsd:date | xsd:gYearMonth | xsd:gYear)
+when = element when {datePattern}
+
