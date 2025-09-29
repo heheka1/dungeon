@@ -1,47 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root><page num="1"><date type="1804-03-09"><place kind="capital of New York">Albany</place> March 9, 1804</date>
-    <!--one thing to note is that on the side of page one in the margin there are 
-    words written that were scribbled out-->
-    <salutations>My Dear friend</salutations>
-    I am just going to proceed in the stage for <place kind="city or state">New York</place>. However, I must endeavor first to give you some account 
-of my journey this far, through a country which was once the seat of your ancestors; 
-but that is now covered with European settlements,
-whose <word interpretation="questionable">persevering</word> industry has greatly changed the face of the country; and forests continue to disappear 
-    before the efforts of the laborious <writersEdit change="crossed out an e and replaced it with an a">woodman</writersEdit>. Is there any thing in their change to 
-call for the sensations of sorrow in the breast<!-- I feel like this could also be saying the 'breath of the philanthropic patriot' --> of the philanthropic patriot? 
-if there is, it is not because the inanimate clod has changed possessors, 
-or that, what was once an unculti-vated waste,<writersEdit change="crossed out a word right here"/> is now covered with human habitations, 
-and rendered abundant in productions for the sustenance and comfort of man; 
-but it is because we have not been sufficiently benefited by the example of that which is worthy and commendable 
-in the character of good Europeans <writersEdit change="crossed out a word right here"/> and have been greatly 
-    <interpretation mine="contamination (of?) the contrary"> contaminated to the contrary</interpretation> - Had the Chiefs, who relinquished this country, acquired more vir-tuous knowledge from their enlightened neighbours, 
-    they might have obtained such compensation and retained such <word interpretation="questionable">reserves</word> which properly disposed of after
-the settle-ment of the country, when the value of land had raised; might have enabled them to have 
-established a fund for the support and promotion of industrious in our present territory
-But to return to my journey – I left <place kind="city">Niagara</place> and parted with my friends with I know not what mixed impressions of joy and 
-grief – which seemed to urge me with greater expedition to proceed &amp; rendered it exceeding unpleasant for me to make any delay.
-However as agree-ably as the situation of my mind would allow of, I passed one day at <place type="city?">Canandarque (sp. Canadaque)</place> mostly in the company of 
-        <people>Mr. &amp; Mrs. Morris</people> &amp; <person>Mr. Greig</person>, a gentleman from Scotland, who had always honored </page>
- <page num="2">(p.12) me with every hospitable and polite attention whenever business called me to these parts. My friend <person>Ihaskoghsage</person> was not at home, 
-but I obtained of that which was due a sufficiency to enable me to attempt my voyage from the gentleman who manages his affairs. 
-At the Inn where I stop a <person>Man</person> put up who told me he was going the way I proposed to go and that I might obtain a passage in his sleigh.
-When he had satisfied me, that he would be expeditious, and that I might depend upon the goodness of his horses,
-I agreed to go with him. In consequence of changing my mode of travelling from foot to going in a carriage
-a young <person>lady</person> from our parts then at Canandarque (sp. Canadaque) with a <person>brother</person>, 
-     whom I knew proposed going under my protection, to <place kind="unsure">Icohare</place> where she had <person>another brother</person>.
-But unfortunately we were both deceived in the capability of the horses that drew us 
-and shortly after our departure it now ap-peared clear, that unless we obtained others, 
-we should be sure of a tedious journey. Had I been alone I would have easily remedied this inconvenience by going on foot; 
-but as the Lady had come under my protection I could not with propriety leave her until we reached her brothers. 
-I endeavored to hire a sleigh, but none was to be had; so we were constrained to remain with 
-the old man and his sorry nags. The first day we slept at about six miles <place>East of Cayuga</place>,
-     and the next day at Ikanyadares, about <distance unit="miles">eighteen miles</distance>farther. The snow had fallen very deep, 
-which so increased the difficulty of travelling, that our man with his sleigh 
-could hardly be prevailed on to start again, and all attempts to obtain another sleigh and horses were fruitless.
-I am apprehend-sive, that contrary to my inclination, my looks betrayed the anxiety of my mind at being detained
-by the tardiness of our conveyance. The lady observed she had a <person>brother in law</person> about <distance unit= "miles">twenty six miles</distance> farther, 
-and that if she could get that far, she would tarry until the roads became better – we set off again,
-but had not proceeded above five miles when our man expressed his determination of not going any farther. 
-Not finding any horses to hire at the house where we stopped (sp. stopt), 
-I was on my way to the next house to inquire if any might be had there, when I perceived</page>
+<root>
+    <!-- For exercise 2 I stuck to the same document I was looking at for the first exercise. This time, I tried to make my tags a bit more descriptive
+    for example, whenever a person was mentioned in this letter, I would add the tag 'person' not matter if they were named or not. Now, if there was a person in the 
+    letter that was mentioned by name, I put the tag 'namedPerson' around them. Any unnamed people kept the tag 'person.
+    I also tried to focus on adding physical descriptions of the actual letter into my markup. I created the tag 'physicalCondition' so I could
+    note any irregularities in the paper, like the red stains that are blotted throughout it. I also tried to note
+    instances of when the author made his own changes, like crossing a word out. I also did this on my first go of this exercise,
+    but I tried to be even more vigilant this time.-->
+    <page num="1"><date type="1804-03-09"><place kind="capital of New York">Albany</place> March 9,
+            1804</date>
+        <writersEdit change="on the side of the first page in the margin there are is writing that's scribbled out"/>
+        <salutations>My Dear friend</salutations> I am just going to proceed in the stage for <place
+            kind="city or state">New York</place>. However, I must endeavor first to give you some
+        account of my journey this far, through a country which was once the seat of your ancestors;
+        but that is now covered with European settlements, whose <word interpretation="questionable"
+            >persevering</word> industry has greatly changed the face of the country; and forests
+        continue to disappear before the efforts of the laborious <writersEdit
+            change="crossed out an e and replaced it with an a">woodman</writersEdit>. Is there any
+        thing in their change to call for the sensations of sorrow in the
+        breast<!-- I feel like this could also be saying the 'breath of the philanthropic patriot' -->
+        of the philanthropic patriot? if there is, it is not because the inanimate clod has changed
+        possessors, or that, what was once an unculti<lineBreak>-vated</lineBreak>
+            waste,<writersEdit change="crossed out a word right here"/> is now covered with human
+        habitations, and rendered abundant in productions for the sustenance and comfort of man; but
+        it is because we have not been sufficiently benefited by the example of that which is worthy
+        and commendable in the character of good Europeans <writersEdit
+            change="crossed out a word right here"/> and have been greatly <physicalCondition paper="has a red stain around the area the sentences before and after this tag is written"/> 
+       <interpretation mine="contamination (of?) the contrary"> contaminated to the contrary</interpretation> -
+        Had the <people>Chiefs</people><physicalCondition paper="above the word 'chiefs' there is another red stain"/>, who relinquished this country, acquired more vir-tuous
+        knowledge from their enlightened neighbours, they might have obtained such compensation and
+        retained such <word interpretation="questionable">reserves</word> which properly disposed of
+        after the settle<lineBreak>-ment</lineBreak> of the country, when the value of land had
+        raised; might have enabled them to have established a fund for the support and promotion of
+        industrious in our present
+        territory<writersEdit change="right after he writes 'territory' there is slightly over four lines of
+            writing that he has crossed out, and it is all illedgable"/>
+           But to return to my journey <writersEdit added="a hypen">–</writersEdit> I left <place kind="city">Niagara</place>
+        and parted with my friends with I know not what mixed impressions of joy and grief – which
+        seemed to urge me with greater expedition to proceed &amp; rendered it exceeding unpleasant
+        for me to make any delay. However as agree-ably as the situation of my mind would allow of,
+        I passed one day at <place type="city?">Canandarque (sp. Canadaque)</place> mostly in the
+        company of <namedPeople>Mr. &amp; Mrs. Morris</namedPeople> &amp; <namedPerson>Mr.
+            Greig</namedPerson>, a gentleman from Scotland, who had always honored </page>
+    <page num="2">(p.12) me with every hospitable and polite attention whenever business called me
+        to these parts. My friend <writersEdit
+            change="crossed out a word and wrote Ihaskoghsage above it"
+                ><namedPerson>Ihaskoghsage</namedPerson></writersEdit> was not at home, but I
+        obtained of that which was due a sufficiency to enable me to attempt my voyage from the
+        gentleman who manages his affairs. At the Inn where I stop a <person>Man</person> put up who
+        told me he was going the way I proposed to go and that I might obtain a passage in his
+        sleigh. When he had satisfied me, that he would be expeditious, and that I might depend upon
+        the goodness of his horses, I agreed to go with him. In consequence of changing my mode of
+        travelling from foot to going in a carriage a young <person>lady</person> from our parts
+        then at Canandarque (sp. Canadaque) with a <person>brother</person>, whom I knew proposed
+        going under my protection, to <place kind="unsure">Icohare</place> where she had
+            <person>another brother</person>. But unfortunately we were both deceived in the
+        capability of the horses that drew us and shortly after our departure it now ap-peared
+        clear, that unless we obtained others, we should be sure of a tedious journey. Had I been
+        alone I would have easily remedied this inconvenience by going on foot; but as the Lady had
+        come under my protection I could not with propriety leave her until we reached her brothers.
+        I endeavored to hire a sleigh, but none was to be had; so we were constrained to remain with
+        the old man and his sorry nags. The first day we slept at about <distance unit="mile">six
+            miles</distance>
+        <place>East of Cayuga</place>, and the next day at Ikanyadares, about <distance unit="miles"
+            >eighteen miles</distance>farther. The snow had fallen very deep, which so increased the
+        difficulty of travelling, that our man with his sleigh could hardly be prevailed on to start
+        again, and all attempts to obtain another sleigh and horses were fruitless. I am
+        apprehend-sive, that contrary to my inclination, my looks betrayed the anxiety of my mind at
+        being detained by the tardiness of our conveyance. The lady observed she had a
+            <person>brother in law</person> about <distance unit="miles">twenty six miles</distance>
+        farther, and that if she could get that far, she would tarry until the roads became better –
+        we set off again, but had not proceeded above five miles when our man expressed his
+        determination of not going any farther. Not finding any horses to hire at the house where we
+        stopped (sp. stopt), I was on my way to the next house to inquire if any might be had there,
+        when I perceived</page>
 </root>
