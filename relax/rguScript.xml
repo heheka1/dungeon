@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="rgu.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <metadata>
+        <!-- this is a fan-made script of the show Revolutinary Girl Utena. For whatever reason the creator did not add
+        any sort of scene descriptions, it's just pure dialogue. I will add some sort of scene description
+        whenever the context is needed and I will use the tag 'myAdditon'.-->
+<translatorNotes>In Japanese, suffixes called "honorifics" are attached to people's names to indicate the speaker's relation to the one spoken about. We have left these honorifics largely untranslated to preserve the nuances of the original dialog. Some common honorifics follow:
+
+-sama:
+In modern Japanese, an indication that the speaker holds the one spoken about in very high esteem. Can also be used facetiously (like Wakaba toward Utena) to indicate that the speaker has a crush on the subject. 
+-san:
+An honorific indicating a neutral distance between speaker and subject. Connotes a "working" familiarity with the subject, but not usually camaraderie or intimacy. -san is normally not used toward male social inferiors. 
+-chan:
+A diminutive, this indicates not familiarity and often some degree of affection. The "little" connotation means this term is frequently applied to children, especially female ones. 
+-kun:
+Used toward social equals or inferiors with whom one is more intimate than "-san". Most commonly used toward males. Examples include Utena toward Miki and Touga toward Utena. 
+-sensei:
+Means teacher, master, instructor, physician, etc. Used to address people in such respected occupation. 
+-senpai/-sempai:
+Means senior, superior, elder, predecessor, old-timer, etc. You use it to address people who joined in your social class earlier than you did, regardless of age or social superiority, to indicate some degree of due respect. In Shoujo Kakumei Utena, Utena calls Juri by "-sempai." 
+</translatorNotes>
+ </metadata>
+<show>
+    <introduction>voice:  Once upon a time...
+        <character type = "unseen"> voice</character>:  ...there was a princess grieving over the deaths of her mother and father.
+    voice:  Before this princess appeared a prince traveling upon a white horse.
+    voice:  His appearance gallant, and his smile gentle, the prince enveloped the princess
+    voice:  in the scent of roses, and wiped away her tears.
+    voice:  "Little one bearing up alone under grief,
+    voice:  please lose not thy strength and nobility when thou growest up."
+    voice:  "As a token of this day, please retain this."
+    voice:  "Pray, shall we meet once more?"
+    voice:  "This ring should guide thee to me."
+    voice:  Was the ring from the prince meant as an engagement ring?
+    voice:  That part was good,
+    voice:  but because of the strength of her admiration for the prince,
+    voice:  the princess made up her mind to become a prince herself!
+    voice:  But is that really good for her?
+    </introduction>
+    <titleCard>Title: The Rose Bride</titleCard>
+    <scenes>
+  <myAdditon>(This scene takes place on a walkway that leads to Ohtori Junior and Senior High.
+  there is a huge crowd of kids walking into school. A girl, who will be introduced as Wakaba is standing 
+  towards the side, looking restless.)</myAdditon>
+    <character type = "side">Wakaba</character> :  It's late...
+    Wakaba:  Man, how much longer should I have to wait?
+    Wakaba:  I'm not going to be late the beginning of the new term.
+    Girl:  Wakaba!
+    Girl:  What are you doing over there?
+    Wakaba:  Waiting to see my boyfriend!
+    Girl:  Boyfriend?
+    Girl:  Ha ha.. guessed you got dumped, then.
+    Girl:  Your "boyfriend" left the dorm earlier this morning.
+    Wakaba:  Why, you... how could you?!
+    Title:  Ohtori Academy Junior and Senior High School
+    Woman: <character type = "protagonist">Tenjou Utena-san</character> .
+   <plotPoint>Woman:  Do you plan to keep on wearing those strange clothes this semester?
+    Utena:  Strange?
+    Woman:  Strange.
+    Utena:  All the boys are dressed like I am.
+    Woman:  You are a girl!
+    Woman:  So why do you keep on wearing a boy's uniform?</plotPoint> 
+    Utena:  There's no rule here that says a girl can't wear a boy's uniform.
+    Utena:  No problem then!
+    Utena:  So, in that case...
+    Woman:  You little... You're going to keep evading me this semester, too, aren't you...
+    <myAdditon>(the scene changes to a crowd watching a pick-up basketball game.)</myAdditon>
+    Crowd:  Go, Utena-sama!!
+    <myAdditon>(Utena dribbles a basket ball past a group of guys on defense. 
+        She jumps to shoot the ball and is able to get higher then any of the guys trying to block her.
+        The basketball goes right into the hoop)</myAdditon>
+    Boy:  Sheesh, skunked again...
+    <myAddition>(It is implied that the game is over and Utena won it. A group of girls
+    rushes up to her, cheering.)</myAddition>
+    Girl:  Oh, Utena-sama, use my towel, too!
+    Utena:  Sure, sure, wait your turn.
+    <myAddition>(the shot changes to a still image of one of the school's walk ways.
+    the upcoming conversation can be heard but is off screen.)</myAddition>
+    Boy:  Say, Tenjou, if you'd just join our basketball team,
+    Boy:  the local playoffs would be a sure thing!
+    Utena:  Now look! I'm a girl, you know.
+    Utena:  I don't like playing basketball with a bunch of stinking, sweaty boys.
+    Boy:  Why not? You're mighty boyish yourself, Tenjou.
+    Utena:  Don't say such rude things.
+    Boy:  Well then, why do you wear that boy's uniform?
+    Utena:  That's "prince."
+    Boy:  Huh?
+    Utena:  Instead of a princess to be protected,
+    Utena:  I want to become a dashing prince.
+    Boy:  What's that mean?
+    <myAdditon>(Utena can now be seen walking through the hallway. She then looks to the right of her
+    where there is a court yard. At the side of the court yard is a greenhouse)</myAdditon>
+        <plotPoint> Utena:  That smell...
+    Utena:  It's the smell of roses.
+    Utena:  How long have I felt nostalgic over the scent of roses?</plotPoint>
+    <myAdditon>(Utena is now inside one of the schools buildings, looking through an open window
+    at the green house. A boy and a girl stand right outside of the greenhouse)</myAdditon>
+    Utena:  What's going on over there?
+    Utena:  A lovers' quarrel?
+    Utena:  At least do that someplace where no one else can see you.
+    <myAddition>(the boy slaps the girl)</myAddition>
+    Utena:  Hey, hey... that's going a bit too far.
+    <myAdditon>(the boy goes to slap the girl again, when another guy grabs the 
+    assailant's arm, stopping him)</myAdditon>
+    Utena:  Whew...
+    Wakaba:  Utena!
+    <myAdditon>(Wakaba jumps onto Utena's back, the two of them almost fall out the window,
+    but Utena is able to pull the two of them back up</myAdditon>
+    Utena:  Wakaba.. you're heavy...
+    Wakaba:  This is your punishment for leaving me behind this morning. Now say you're sorry!
+    Utena:  Okay, okay...
+    Wakaba:  Oh, <character type = "antagonist">Saionji-sama!</character>
+    Utena:  Saionji?
+    Wakaba:  You don't know who Saionji-sama is?
+    Utena:  Oh, is he famous?
+    Utena:  I know who the guy in front of him is.
+    Utena:  That's got to be <character type = "antagonist">Kiryuu Touga</character>, the Student Council President, right?
+    Wakaba:  Yep! And the other guy is the Vice-President, Saionji Kyouichi-sama.
+    Utena:  What about her?
+    Wakaba:  Ahh... that's <character type = "protagonist">Himemiya Anthy</character>.
+    Utena:  Himemiya... Anthy...
+    Wakaba:  All she does is take care of the roses, though no one's asked her to. She's so weird.
+    Wakaba:  She'll be in our class from now on.
+    Utena:  So, is Saionji going out with that Himemiya girl?
+    Wakaba:  Not even! Tough old Saionji-sama could never have any feelings for a girl like her.
+    Wakaba:  The only reason they're together is because they're both part of the Student Council.
+    Utena:  Wakaba... he's sort of your type, isn't he?
+    Wakaba:  Oh, I hate it when you get jealous! Don't you worry, I belong only to you.
+    Wakaba:  After all, you're much, much cooler than any boy!
+    <councilMeeting>
+    <myAdditon>(the student council all stand on a large terrace)</myAdditon>
+    Saionji:  This is a sudden meeting, fellow Councilors...
+  <character type = "protagonist"> Miki</character>:  Saionji-san, we are the chosen members of the Rose Signet.
+   <character type = "protagonist">Juri</character>:  Don't forget that our one and only rule is to uphold the Code.
+    Touga:  Saionji, we have a problem with the way you've been treating the Bride recently.
+    Saionji:  Oh, is that so?
+    Touga:  Certainly, she is engaged to you currently.
+    Touga:  However, that doesn't mean you can do whatever you please to her.
+    Miki:  "Whatever he pleases?"
+    Juri:  "Whatever he pleases," you say?
+    Touga:  Quit abusing the Bride, Saionji.
+   <plotPoint>Touga:  The existence of our Student Council is the behest of the Ends of the World.
+       Touga:  Should they know of this matter, the Ends of the World will be displeased.</plotPoint> 
+    Saionji:  Stay out of this.
+    Saionji:  Presently, the Bride and I are deeply in love.
+    Saionji:  I don't want to hear complaints from the likes of you.
+    Miki:  "Deeply in love?"
+    <plotPoint>Anthy:  Right now, I am Saionji-sama's Bride.
+    Anthy:  I will do everything he wishes.</plotPoint>
+    Saionji:  Well, that's how it is between us.
+   <plotPoint>Saionji:  If you're so concerned with the Code,
+    Saionji:  then win back the Bride in a duel in accordance with the Code, Councilors.
+    Touga:  Don't forget that the next duel will be soon upon-
+    Saionji:  I'm already looking forward to whoever it is that will challenge me.</plotPoint> 
+    </councilMeeting>
+    <myAdditon>(Wakaba and Utena sit on a grassy hill on campus)</myAdditon>
+    <plotPoint>Wakaba:  Ooh, that's so pretty... that rose pattern.
+    Wakaba:  Say, that's our school emblem, isn't it?
+    Utena:  Sure looks like it.
+    Wakaba:  Who'd you get it from?
+    Utena:  A prince on a white horse.
+    Utena:  "This ring should guide thee to me."
+    Wakaba:  What's that about?
+    Utena:  I think someone said that to me when he gave me the ring,
+    Utena:  but I was real little then, so I don't remember too well.</plotPoint>
+    Wakaba:  I know what you mean.
+    Wakaba:  When I was a little girl, my mama said to me,
+    Wakaba:  "You're the princess of the Onion Kingdom!"
+    Wakaba:  and I actually believed her.
+    Utena:  So your head's always been shaped like that, huh?
+    <myAdditon>(Utena and Wakaba are now walking down a hallway. At one end a crowd of 
+    students, mostly made up of boys, is forming around an announcement board)</myAdditon>
+    Wakaba:  I wonder what that's about...
+    crowd:  Now what's this?
+    Utena:  What's going on here?
+    boy:  Someone's love letter got posted here.
+    Utena:  Love letter?
+    boy:  hmmm, let's see... "so then I was dancing with you in my dreams, Saionji-san."
+    boy:  "You were smiling so gently. You must think I'm such an idiot."
+    boy:  Heh! I'll say!
+    <myAddtion>(Utena walks up to the board and rips the love letter off of it)</myAddtion>
+    Utena:  You guys are the idiots!
+    Utena:  This is such a tasteless thing to do.
+    boy:  Hey, if it's up there, anybody would read it.
+    Utena:  Nice guys wouldn't read this-
+    <myAddition>(Utena looks over at Wakaba who just stands there stunned. A tear falls 
+    from her eye)</myAddition>
+    Utena:  Wakaba...
+    <myAddition>(Wakaba runs away. Utena runs after her. Utena finds Wakaba alone, crying.)</myAddition>
+    Utena:  Wakaba!
+    Utena:  YOU sent that letter to Saionji?
+    Utena:  That Saionji jerk is not getting away with this...
+    <challenge>
+   <myAddition>(Utena and Saionji are standing in the Kendo room. Saionji is 
+   practicing his sword technique while speaking)</myAddition>
+    Saionji:  How should I know?
+    Saionji:  Someone probably picked the letter out of the trash and posted it on their own.
+    Utena:  Why did you throw it away in such a public place?
+    Saionji:  What I do with my letters is my own business.
+    Saionji:  But, now that I think of it,
+    Saionji:  if that sort of stupid, no, silly letter has amused anyone, then all the better.
+    Saionji:  Was that all you wanted to talk about?
+    Utena:  No.
+    Utena:  You're the captain of the Kendo Club, right?
+    Utena:  You've got a duel with me today after school!
+    Saionji:  What do you...
+    Saionji:  So that's it.
+    Saionji:  You're the next challenger.
+    Utena:  What do you mean by that?
+    Saionji:  All right, then.
+    Saionji:  I'll meet you after classes at the Duel Arena in the forest at the rear of the school.
+    Utena:  Forest? The one that's off-limits?</challenge>
+  <shadowGirls> 
+  <myAdditon>(the next scene is shown on a wall where two shadows shaped as 
+  girls talk and interact with each other)</myAdditon>
+  <character type = "unseen">A-ko</character>:  I wonder, I wonder... do you know what I wonder?
+  <character type = "unseen">B-ko</character>:  I hear there's going to be another duel out back in the forest today!
+    A-ko:  Oh, brave warrior, you're going to fight for your friend, meddlesome brave warrior!
+    B-ko:  But beware, brave warrior...
+    A-ko:  They fight by a Code, there in the forest.
+    B-ko:  Do you know that, I wonder?
+    A-ko:  I wonder, I wonder...
+    both:  Do you know what I wonder?</shadowGirls>
+    <enteringArena>
+    <myAdditon>(Utena stands in front of a huge gate)</myAdditon>
+   Utena:  What the... Now how am I supposed to get into this place, anyway?
+ <myAdditon>(Utena tries the handle of the gate to no avail)</myAdditon>
+    Utena:  And of course, it's locked.
+    <myAdditon>(an imagine of a pool of rippling water is shown. In the center of the ripple a water drop falls
+    out. The drop comes out of the handle Utena is holding and lands on her rose crest ring)</myAdditon>
+    Utena:  Hey! That's cold!
+    <myAdditon>(the walls around the gate move and shift into a stone rose above
+    the gate, which is now open.)</myAdditon>
+    Utena:  What kind of gate is this?
+    Utena:  Well, whatever. I'm going in!
+    <myAdditon>(Utena walks up a long spiral staircase made of white stone. 
+    while she does this, the song Aboslute Destiny Apocalyspe plays)</myAdditon>
+   <backgroundSong> <!--the original lyrics of this song are in Japansese, this is
+   a translated version of the song except for the last two lines of the songs which
+   are still in Japanese.-->
+    ZUM:  The Absolute Destiny: Apocalypse
+    ZUM:  The Absolute Destiny: Apocalypse
+    ZUM:  Birth records
+    ZUM:  Baptismal records
+    ZUM:  Death records
+    ZUM:  A wet-nurse and a midwife in a dark desert
+    ZUM:  A gold-gilded Shangri-La
+    ZUM:  Day and night reversing
+    ZUM:  A time-gilded Lost Paradise
+    ZUM:  Darkness over Sodom
+    ZUM:  Darkness ever glowing
+    ZUM:  Darkness over yonder
+    ZUM:  Darkness never ending
+    ZUM:  The Absolute Destiny: Apocalypse
+    ZUM:  The Absolute Destiny: Apocalyptic Darkness, Apocalypse
+    ZUM:  mokushi kushimo shimoku kumoshi moshiku shikumo
+    ZUM:  mokushi kushimo shimoku kumoshi moshiku shikumo</backgroundSong>
+    Utena:  A castle in midair? How?</enteringArena>
+    <myAdditon>(Utena stands on a platform suspended in the air. Above her is a castle floating upside down)</myAdditon>
+    <duel>
+    Saionji:  So, this is your first time to see the castle, eh?
+    Utena:  What is it? I sure couldn't see it from outside the forest.
+    Saionji:  It's a mirage, of sorts.
+    Saionji:  You can think of it as magic, if you like.
+    Utena:  A mirage?
+    Saionji:  What surprises me is someone outside the Student Council possessing a Rose Signet.
+    Utena:  Rose Signet?
+    Saionji:  I mean this. <myAdditon>(Saionji shows his rose crest ring)</myAdditon>
+    Utena:  That ring...
+    Saionji:  Anthy!
+    Saionji:  Prepare us for battle!
+    <myAdditon>(Anthy walks up to Saionju and puts a green rose in the chest pocket of 
+    his uniform. She then goes up to Utena. Anthy is not wearing her school uniform
+    anymore. Instead, she wears a red ballgown.)</myAdditon>
+    Utena:  Himemiya... Anthy...
+    Utena:  Himemiya, what are YOU doing here?
+    Saionji:  Naturally, the Bride ought to be in attendance.
+    Utena:  Bride?
+    <myAdditon>(Anthy places a white rose in Utena's chest pocket)</myAdditon>
+    Utena:  That smell...
+    Utena:  It's the same, the same as my prince's roses.
+    Anthy:  The person whose rose gets scattered loses the duel.
+    Utena:  Huh?
+    Anthy:  Good luck to you.
+    <myAdditon>(Saionji storms up to Anthy and slaps her)</myAdditon>
+    Utena:  What was that for?
+    Saionji:  Don't toy with me, Anthy!
+    Saionji:  You're the Rose Bride, in other words, MY flower.
+    Saionji:  How dare you wish anyone else good luck?
+    Anthy:  I'm sorry, Saionji-sama.
+    Utena:  Stupid! He does all this, and you still submit to him?
+    Anthy:  Saionji-sama is the current duel champion, so he can do with me as he likes.
+    Utena:  What does that mean?
+    Utena:  Isn't he supposed to be your boyfriend?
+    Saionji:  So, let us begin.
+    Utena:  I'm not sure what's going on here, but it doesn't matter, as long as I beat him, right?
+    Anthy:  O roses of the noble castle,
+   <myAdditon>(a white light starts to glow on Anthy's chest)</myAdditon>
+    Utena:  What? More magic?
+    Anthy:  O Power of Dios that slumbers within me,
+    Anthy:  Harken unto thy master and reveal to us...
+    <myAdditon>(within the light, the hilt of a sword appears. Saionji grabs it, and
+    pulls a sword out of Anthy's chest.)</myAdditon>
+    Saionji:  ...the power to revolutionize the world!
+    <myAdditon>(the two of them start to sword fight. It should be noted that 
+    Utena brought a wooden practice sword.</myAdditon>
+    Saionji:  You're pretty good... for a girl.
+    Saionji:  So you want to be the prince who saves the helpless princess?
+    Saionji:  Unfortunately...
+    <myAdditon>(Saionji swings his sword hard and breaks Utena's sword)</myAdditon>
+    Utena:  Oh, no!
+    Utena:  That magical sword... is real?
+    Saionji:  I'm surprised at you.
+    Saionji:  Really now, challenging the Sword of Dios with a simple bamboo practice sword?
+    Utena:  Sword of Dios?
+    Saionji:  You don't know about the Sword of Dios? Who ARE you?
+    Saionji:  You ARE an intriguing creature.
+    Utena:  Hey, this fight ain't over yet!
+    Saionji:  If you so desire, I'll gladly stain that rose with your blood, with but a single strike.
+    Saionji:  Go ahead then, risk your life and face me... if you have the courage!
+    Saionji:  You, a prince on a white horse, out to save a princess?
+   <myAdditon>(Utena runs at Saionji like a jouster with the small bit of sword she still has.
+     The shot freezes on Utena's hair flowing while she runs. The color of her hair inverts, and it's now purple.
+     the background then changes to a wall of roses. The prince in the introduction is shown)</myAdditon>
+    voice:  "Little one bearing up alone under grief,
+    voice:  please lose not thy strength and nobility when thou growest up."
+    <myAdditon>(The two duelers run at each other, trying to knock off each of their roses. It is revealed
+    Utena's rose is still intact, and Saionjis is not)</myAdditon>
+    Saionji:  What?
+    Saionji:  Stupid bitch!
+ <!-- The original version of this script had the lyrics of the duel song between the dialogue,
+but it just seemed awkward and confusing to read, so I put all of the lyrics in one spot below -->
+<duelSong> 
+WWWW:  When Where Who Which
+WWWW:  When Where Who Which
+WWWW:  Flow of blood from the cage of my memory,
+WWWW:  In the cradle of a thousand years of bliss.
+WWWW:  And I, an actor cast eternally
+WWWW:  as the Sphinx in the desert winter.
+WWWW:  Now you know the sadness
+WWWW:  of the stillborn flesh.
+WWWW:  And I, a holy actor, cast eternally
+WWWW:   as a dark shining Margineaux, cast into Hell.
+WWWW:  Glow!
+WWWW:  Burn!
+WWWW:  Cool down,
+WWWW:  and sing!
+WWWW:  Born in this world,
+WWWW:  born in an instant,
+WWWW:  born all over again.
+</duelSong>
+    Saionji:  It can't be...
+    Saionji:  I've... lost?
+    Saionji:  Anthy...
+    Anthy:  Take it easy, Saionji... sempai.
+ <myAdditon>(Touga is shown standing on a stone wall several feet away from the dueling
+ Arena. He is peering into what appears to be Opera binoculars in the direction of the arena)</myAdditon>
+    Touga:  This is an unexpected turn of events.
+    Touga:  And she's in junior high school?
+    Touga:  All right, baby.
+    Touga:  You've set my heart on fire.</duel>
+  <myAdditon>(It is night out now. Utena is walking through the school's campus)</myAdditon>
+    Utena:  Ahh.. That was really weird, whatever happened back there.
+    Utena:  What was all that, anyway?
+    Utena:  Oh well, better just forget about it!
+  <myAdditon>(Anthy stands a little ahead of Utena)</myAdditon>
+    Utena:  Huh? You...
+    Anthy:  I've been waiting for you, Utena-sama.
+    Anthy:  I am the Rose Bride, and from today on, I am your flower. 
+</scenes>
+</show>
+</root>

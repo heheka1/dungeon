@@ -1,0 +1,21 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = root
+root = element root {translatorNotes, show, text}
+translatorNotes = element translatorNotes {text}
+show = element show {introduction,character+,text, titleCard,scenes,myAdditon*,councilMeeting} 
+councilMeeting = element councilMeeting {text}
+introduction = element introduction { character, text}
+myAdditon = element myAdditon {text}
+scenes = element scenes {myAdditon+, text, character+, plotPoint+, challenge, shadowGirls,enteringArena,
+backgroundSong,duel, duelSong}
+plotPoint = element plotPoint {text}
+challenge = element challenge {text}
+titleCard = element titleCard {text}
+shadowGirls = element shadowGirls {text}
+character = element character {type, text}
+type = attribute type {"side" | "protagonist" | "antagonist" | "unseen"}
+enteringArena = element enteringArena {text}
+backgroundSong = element backgroundSong {text}
+duel = element duel {text}
+duelSong = element duelSong {text}
+
