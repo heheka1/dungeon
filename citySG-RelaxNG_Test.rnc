@@ -29,20 +29,24 @@
 # When you are finished, upload BOTH the schema and the XML file to Canvas using the posted upload point for this exam. 
 # You may zip the files to submit them just as you have done for homework assignments.
 start = article
-article = element article {mixed{head | body}} 
-head = element head {titleLine, headLine} 
-titleLine = element titleLine {mixed{(newspaper, date), num?}}
-newspaper = element newspaper {empty} 
+article = element article {mixed{(head, body)*}} 
+head = element head {(titleLine, headLine)+ } #put newspaper with head, added the pund sign to newspaper as well
+titleLine = element titleLine {mixed{newspaper, date*, num?, series}} #defined series within titleLine
+headLine = element headLine {mixed {n+, newspaper}}#changed tag from headline to headLine
+newspaper = element newspaper {text} #changed newspaper from having an empty element to containing text
 date = element date {when, text}
+when = attribute when {xsd:date | xsd:gYearMonth | xsd:gYear} #defined "when" attribute
 num = element num {amount, text}
-amount = attribute amount {xsd:??}
+amount = attribute amount {xsd:decimal} #added decimal id
 series = element series {text}
-n = attribute n {xsd:??}
+n = attribute n {xsd:integer} #added integer id
 body = element body {p} 
 p = element p {(company | address | description)*, text} 
 company = element company {text}
 address = element address {type, text}
-type = attribute type {"exact","general"} 
+type = element type {exact,general} #removed quotation marks, changed type from an attribute to an element
+exact = attribute exact {text} #defined exact as an attribute
+general = attribute general {text} #defined general as well
 description = element description {mixed{(company|address)*}}
 
 
