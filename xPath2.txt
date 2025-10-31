@@ -1,0 +1,12 @@
+1. //body/div/@type="historical_people"
+2b. //body/div/*
+2c. //body/div[@type="events"]
+2c. //body/div/@type=> count() (ans: 9) 
+3a. //body/div[@type="nature"]=> count()
+3b. //body/div[@type="nature"]/list[@sortKey="animals"]/addName[last()]
+3d. //body/div[@type="nature"]/list[@sortKey="plants"][position() le 6]
+4. I think the parenthesis is having it focus on one specific occupation
+5a. there are 1551 person tags- distinct-values(//person)
+5b. No because when I punch in //div//person[count(@sex)] it says there's only three who have a sex tag.
+5c. I tried multiple ways to do this, but I couldn't get it to work right, my best guess is: //div[count(//person)]div count(@sex)
+5d. 3 div 1551=0.19%
