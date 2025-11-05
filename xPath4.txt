@@ -1,0 +1,8 @@
+1. //distinct-values(@characters). It says there are 56 items, but it is stacked really strange on the results
+2. distinct-values(//@characters! tokenize(.)) I got 23 Items
+3a.//contains (@character, drkelly) there are 1332 items 
+3b. //div/ cbml:panel[ends-with(.,'?')] - I tried to do something similar to the example on the "x path functions we use the most" but it kept coming up as an error
+4a. count(//cbml:balloon! string-length()) - I got 71
+4b & 4c. I have no idea how to get this but the two things I tried to punch in are (//cbml:balloon/@who)[1] and //cbml:balloon/@who[1]
+5a. //cbml:panel/contains(note,skull)
+5b. I think putting the period makes it so it only finds nodes that have both a period and NO
