@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+    xmlns="http://www.w3.org/1999/xhtml"
     exclude-result-prefixes="xs math"
     version="3.0">
     
@@ -9,14 +10,16 @@
     
    
    
-</xsl:stylesheet>
-<xsl:template match="/">
-<xsl:apply-templates select="//poem/poemTitle/>
+
+<xsl:template match="body"/>
+    <xsl:apply-templates></xsl:apply-templates>
+
 </xsl:template>
 <xsl:template match="poemTitle[@type='title']">
     <xsl:apply-templates select="pb/poem"/>
     <xsl:apply-templates select="descendant::poemTitle/title"/>
 </xsl:template>
+</xsl:stylesheet>
     
     <!--Tasks: Write XSLT template rules to do the following:
         

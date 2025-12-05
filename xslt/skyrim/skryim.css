@@ -1,0 +1,25 @@
+body {
+    background-color:Chartreuse;
+    width: 90%;
+    margin: auto;
+    padding:1em;
+}
+h1 {
+    color: purple;
+}
+h2 {
+    color: CadetBlue;
+}
+h3 {
+    color: DarkCyan;
+}
+QuestEvent {
+ color: DarkSlateGray;   
+}
+
+Character{
+ color: Indigo;
+}
+location {
+color: red;
+}
