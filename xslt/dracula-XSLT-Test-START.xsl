@@ -36,7 +36,7 @@
              <!-- Table of contents. -->
              <h2>Contents</h2>
              <ul>
-                 <xsl:apply-templates select="//chapTitle" mode="toc"/>
+                 <xsl:apply-templates select=".//chapTitle" mode="toc"/>
              </ul>
              <hr/>
             
