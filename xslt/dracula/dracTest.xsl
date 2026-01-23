@@ -34,21 +34,22 @@
                     <h2>Contents</h2>
                     <table> 
                       
-                        <hr/>
+                       
                         <tr>
                             <xsl:apply-templates select="chapter" mode="toc"/>
                             <th>Chapter Number</th>
                             <th>Tech mentioned</th>
-                            <th>Locations mentioned</th>
+                            <th>People mentioned</th>
                         </tr>
+                        
                         <tr>
-                            <xsl:apply-templates select="chapter" mode="toc"/>
+                            <xsl:apply-templates select="descendant::chapter" mode="toc"/>
                         <td>
-                            <xsl:apply-templates select="chapTitle" mode="toc"/>
+                            <a href="#c-{count(preceding-sibling::div) }"> <xsl:apply-templates select="descendant::chapTitle" mode="toc"/></a>
                         </td>
-                            <td> <xsl:apply-templates select="tech" mode="toc"/></td>
+                            <td> <xsl:apply-templates select="descendant::tech" mode="toc"/></td>
                             
-                            <td> <xsl:apply-templates select="loc" mode="toc"/></td>
+                            <td> <xsl:apply-templates select="descendant::person" mode="toc"/></td>
                         </tr>
                         <!-- ebb: prepare the table of contents representing each descendant chapter heading,
                    Hint: use <xsl:apply-templates with @mode here.  -->   
@@ -84,8 +85,8 @@
         </section>
     
     <xsl:template match="chapter">
-        <div>
-            <xsl:apply-templates/>
+        <div class="chapter" id="c-{count(preceding-sibling::div) }">
+           <xsl:apply-templates/> 
         </div>
     </xsl:template>
     <!--ebb: Continue writing template rules, some with @mode for the table of contents, and some without it for the reading view.  -->
@@ -103,12 +104,19 @@
         </p>
     </xsl:template>
     
-    
+    <xsl:template match="tech">
+        <span class="tech"><xsl:apply-templates/></span>
+    </xsl:template>
+    <xsl:template match="person">
+        <span class="person"><xsl:apply-templates/></span>
+    </xsl:template>
     <xsl:template match="chapter" mode="toc"> 
         <tr>
-            <td><xsl:apply-templates select="descendant::chapTitle ! normalize-space() => distinct-values() => sort() => string-join(',')"/></td>
-            <td><xsl:apply-templates select="descendant::tech ! normalize-space() => distinct-values() => sort() => string-join(',')"/></td> 
-            <td><xsl:apply-templates select="descendant::loc ! normalize-space() => distinct-values() => sort() => string-join(',')"/></td> 
+            <td> <xsl:apply-templates select="descendant::chapter"/></td>
+            <td><xsl:apply-templates select="descendant::chapTitle!normalize-space() => distinct-values() => sort() => string-join(', ')"/></td>
+            <td><xsl:apply-templates select="descendant::tech!normalize-space() => distinct-values() => sort() => string-join(', ')"/></td> 
+            <td><xsl:apply-templates select="descendant::person!normalize-space() => distinct-values() => sort() => string-join(', ')"/></td> 
         </tr>
     </xsl:template>
+    
 </xsl:stylesheet>

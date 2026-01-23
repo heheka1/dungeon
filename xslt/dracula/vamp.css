@@ -1,0 +1,13 @@
+body {
+    background: black;
+    color: IndianRed;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+span.tech {
+    font-weight:400;
+    color: GoldenRod;
+}
+span.person {
+    font-weight:400;
+    color: LightSalmon;
+}

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../ODD/out/tei_all_myImmortal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../ODD/out/tei_all_myImmortal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My Immortal</title>
+            <author><addName>Tara Gilesbie</addName></author>
+            <editor>Knox Aluise</editor>
+            <editor>Ashton Maloney</editor>
+            <editor>Aya Sharpaji</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Originally Published on Fanfiction.net on <date when="2007-03-03">March 3rd,
+                  2007</date> It was then removed by Fanfiction.net on <date when="2008-10">October
+                  2008</date>for a reason that has never been confirmed. It has since been
+               reuploaded onto the site by mutiple people. The upload that we are using was
+               published on <date when="2011-03-26">March 26, 2011</date></p>
+            <p>EDITORS! EXPLAIN WHAT YOU DID WITH THIS PROJECT TO PREPARE THIS EDITION.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text n="0">
+      <front>
+         <docTitle>
+            <titlePart> Intro</titlePart>
+         </docTitle>
+         <head place="top">By: xXMidnightEssenceXx DISCLAIMER: I DID NOT WRITE THIS The infamous
+            WORST FANFICTION EVER posted here, unedited, for ur "lulz" -Originally by Tara Gilesbie
+            -Rated M for the "Then he put his thingie into my you-know-what and we did it for the
+            first time." line! -There is more than 1 chap per page Rated: Fiction M - English -
+            Humor/Fantasy - Draco M., OC - Chapters: 14 - Words: 24,152 - Reviews: 7,907 - Favs:
+            3,164 - Follows: 1,255 - Updated: Jun 1, 2016 - Published: Mar 16, 2011 - id: 6829556
+         </head>
+      </front>
+      <body>
+         <p>Message from xXMidnightEssenceXx: Obviously I did not write this, it was published on
+            this site 5 years ago, then removed. There are probably other copies of this on
+            FanFiction as well as other sites, but I though I'd post it anyway. Those who remember
+            My Immortal well should also remember the first few chapters (1-15) were co-written with
+            'Raven' hence they were spelt better etc but don't worry Raven leaves in chapter 16
+            (which is where her character Willow gets expelled from Hogwarts). However, she seems to
+            return... The copy on here I'm pretty sure is the 100% original version of My Immortal
+            with no edits at all outside those by Raven (which were in the original). This version
+            will include the 'hacker' chapter 39 and the original chapter 39, and the possibly fake
+            "My Immortal 2" if I can find it! I will also include links to the My Immortal "MOVIE"
+            and other sites where you can read more at the end. Thank -–or "Fangz"- You!.</p>
+         <p>The Return of My Immortal! Excerpt from Encyclopedia Dramatica: My Immortal is the most
+            famous, notoriously bad fan fiction ever written. Based very loosely in the Harry Potter
+            universe and featuring the blatant Mary-Sue protagonist Ebony (or often times "Enoby")
+            Dark'ness Dementia Raven Way, it reads like a detailed list of everything a fanfic
+            author could ever possibly do wrong, only taken to exaggerated, horrifying extremes.
+            Written by super-tard Tara Gilesbie, My Immortal was originally posted to sometime in
+            2006, but was subsequently deleted by the staff after causing a severe drop in the
+            site's collective IQ. In fact, the fanfic is so unbelievably bad that many refuse to
+            accept that it's real, insisting that Tara was only trolling and that the story is
+            really a parody. Regardless of the author's intent, My Immortal remains one of the most
+            cringe-worthy, unintentionally hilarious, so-bad-it's-good pieces of literature the
+            internets have ever shat out.</p>
+         <p>My Immortal unofficial website: http (colon-slash-slash) myimmortalrehost (dot) webs
+            (dot) com</p>
+      </body>
+   </text>
+   <text n="1">
+      <front>
+       <docTitle>
+            <titlePart>2. Chapters 1 &amp; 2</titlePart>
+         </docTitle>
+         <head>Chapter 1. AN: Special <w norm="thanks">fangz</w> (get it, coz
+            Im <w norm="gothic">goffik</w>) <w norm="to">2</w> my gf (ew not in that way)
+            raven, bloodytearz666 <w norm="for">4</w> helpin me wif <w norm="the">da</w> story
+            and spelling. <w norm="you">U </w><w norm="rock">rok!</w> Justin ur da luv of my
+            deprzzing life u rok 2! <w norm="My Chemical Romance">MCR</w>
+            ROX!</head>
+      </front>
+      <body>
+         <p>Hi my name is <name ref="TG">Ebony Dark'ness Dementia Raven Way</name> and I have <rs type="fashion">long ebony black hair <note place="parenthesis">(that's how I got my name)</note> with purple streaks and red tips 
+            that reaches my mid-back and icy blue eyes like limpid tears and a
+            lot of people tell me I look like <name ref="AL">Amy Lee</name></rs> <note place="parenthesis">(AN: if u don't know who she is get da <w norm="swear">hell</w>
+               out of here!)</note>. I'm not related to <name ref="GaW">Gerard Way</name> but I wish I was because he's a major
+            <rs type="swear">fucking</rs> hottie. I'm a vampire but my teeth are straight and white. I have pale white
+            skin. I'm also a witch, and I go to a magic school called Hogwarts in England where I'm
+            in the seventh year <note place="parenthesis">(I'm seventeen)</note>. I'm a goth <note place="parenthesis">(in case you couldn't tell)</note> and I wear
+            mostly black. I love <rs type="store">Hot Topic</rs> and I buy all my clothes from there. For example today I
+            was <rs type ="fashion"> <w norm="wearing">earing</w> a black corset with matching lace around it and a black leather miniskirt,
+            pink fishnets and black combat boots. I was wearing black lipstick, white foundation,
+            black eyeliner and red eye shadow</rs>. I was walking outside Hogwarts. It was snowing and
+            raining so there was no sun, which I was very happy about. A lot of preps stared at me.
+            I put up my <rs type="swear">middle finger at them</rs>.</p>
+         <p> <said who="Draco">Hey Ebony!</said> shouted a voice. I looked up. It was…. <name ref="DM">Draco Malfoy!</name></p>
+         <p><said who="Draco">What's up Draco?</said> I asked. </p>
+         <p> <said who="Draco">Nothing</said>. he said shyly. But then, I heard my friends call me and I had to go
+            away.</p>
+         <p>
+            <note place="end">AN: IS it good? PLZ tell me fangz!</note></p>
+      </body>
+         </text>
+   <text n="2">
+      <front>
+         <docTitle>
+            <titlePart>Chapter 2</titlePart>
+         </docTitle>
+      </front>
+       <body>
+         <p><note type="start">AN: Fangz 2 bloodytearz666 <w norm="for">4</w> <w norm="helping">helpin</w> me <w norm="with">wif</w> <w norm="the">da</w> <w norm="chapter">chapta</w>! <w norm="by the way">BTW</w>
+               <w norm ="non goth">preps</w> stop <w norm="insulting">flaming</w> ma story ok!</note> The next day I woke
+            up in my bedroom. It was snowing and raining again. I opened the door of my coffin and
+            drank some blood from a bottle I had. My coffin was black ebony and inside it was hot
+            pink velvet with black lace on the ends. I got out of my coffin and took of my <rs type="fashion"> giant <w norm="My Chemical Romance">MCR</w>
+            t-shirt which I used for pajamas</rs>. Instead, I put on a<rs type="fashion"> black leather dress, a pentagram
+            necklace, combat boots and black fishnets on. I put on four pairs of earrings in my
+            pierced ears, and put my hair in a kind of messy bun.</rs> </p>
+         <p> My friend, <name ref="R">Willow </name><note place="parenthesis">(AN: Raven <w norm="this">dis</w> is <w norm="you">u</w>!)</note> woke up then and grinned at me. She flipped her <rs type="fashion">long
+            waist-length raven black hair with pink streaks and opened her forest-green eyes. She
+            put on her <name ref="BW">Marilyn Manson</name> t-shirt with a black mini, fishnets and pointy high-heeled
+               boots. We put on our makeup <note place="parenthesis">(black lipstick white foundation and black eyeliner.)</note> </rs>
+         </p>
+         <p> <said who="Willow"><rs type="swear"><w norm="Oh My Fucking God">OMFG</w></rs>, I saw you talking to Draco Malfoy yesterday!</said> she
+            said excitedly.</p>
+         <p><said who="Ebony">Yeah? So?</said> I said, blushing.</p> 
+         <p><said who="Willow">Do you like Draco?</said> she asked as we went
+            out of the Slytherin common room and into the Great Hall. </p>
+         <p><said who="Ebony">No I so <rs type="swear">fucking</rs> don't!</said> I
+               shouted. </p>
+         <p><said who="Willow">Yeah right!</said> she exclaimed. Just then, Draco walked up to me.</p>
+         <p><said who="Draco"> Hi.</said> he said.</p> 
+         <p><said who="Ebony">Hi.</said> I replied flirtily. </p>
+         <p><said who="Draco">Guess what.</said> he said. </p>
+         <p> <said who="Ebony">What?</said> I asked. </p>
+         <p><said who="Draco">Well, <rs type="band">Good Charlotte</rs> are having a concert in Hogsmeade.</said> he told me. </p>
+         <p> <said who="Ebony">Oh. My. <rs type="swear">Fucking</rs>. God!" I screamed. I
+               love <w norm="Good Charlotte">GC</w>. They are my favorite band, besides <rs type="band">MCR</rs>.</said> </p>
+         <p> <said who="Draco">Well…. do you want to go with me?</said> he
+            asked. I gasped. </p>
+        </body>
+      
+   </text>
+</TEI>
