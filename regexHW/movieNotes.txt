@@ -1,0 +1,7 @@
+1. find: & replace: &amp;
+2. Find: < => not string found
+3. find: > => no string found
+4. find: ^ replace: <movie>
+5. find: $ replace: </movie>
+6. find: (\w[USA]) replace: <location> USA </location>
+7. Find (for year):\s\d\1 result: not string found
