@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My Immortal Chapters 21-25</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Originally Published on Fanfiction.net on <date when="2007-03-03">March 3rd,
+                  2007</date> It was then removed by Fanfiction.net on <date when="2008-10">October
+                     2008</date>for a reason that has never been confirmed.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born Digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+     <text n="22">
+        <front>
+           <docTitle>
+              <titlePart>Chapters 22</titlePart>
+           </docTitle>
+        </front>
+        <body>
+           <p><note place="top">Chapter 22. AN: <rs type="swear"><w norm="Shut the fuck up">stfu</w></rs>! <w norm="preps">prepz</w> 
+                 <w norm="stop">stup</w> flaming ok if <w norm="you">u</w> <w norm="don't">dnot</w> <w norm="like">lik</w> it 
+                 <rs type="swear"><w norm="fuck">fuk</w></rs> <w norm="off">of</w> I <w norm="know">no</w> <w norm="it's">itz</w> 
+                 mr. noris <w norm="it's">itz</w> raven's <w norm="fault">folt</w> ok!11 <w norm="you">u</w> <w norm="suck">suk</w>!1 no
+                 <w norm="just">jus</w> kidding raven <w norm="you">u</w> 
+                 <rs type="swesr"><w norm="fucking">fokieng</w></rs> <w norm="rock">rok</w> <w norm="preps">prepz</w> <w norm="suck">suk</w>!1</note>
+           </p>
+           <p>All day everyone talked about the <w norm="Ministry">Misery</w> of Magic. Well anyway, I woke up the next day. I was in my coffin so I opened the door. 
+              I was wearing <rs type="fashion">blak lacey leather pajamas.</rs> Then I gasped.</p>
+           
+           <p>Standing in front of me where….<name ref="HG"><w norm="Bloody Mary">B;loody Mary</w></name>, <name ref="HP">Vampire</name>,
+              <name ref="RW">Diabolo</name>, <name ref="DM">Draco</name>, <name ref="NL">Dracula</name> and <name ref="R">Willow</name>!</p>
+           
+           <p>I opened my crimson eyes. Willow was wearing a <rs type="fashion">tight black leather top with pictures of bloody roses all over it. 
+                 Under that she <w norm="wore">wart</w> a black poofy skirt <w norm="with">wit</w> lace on it and black gothic boots that was attached to the top.</rs> 
+              Vampire was <rs type="fashion">wearing a baggy <rs type="band">Simple Plan</rs> t-shirt and baggy black pants and Vans.</rs> 
+              Draco was <rs type="fashion">wearing a black <w norm="My Chemical Romance">MCR</w> t-shirt and blak jeans and a leather jacket.</rs> He looked just <w norm="like">likee</w> <name ref="GaW">Gerard Way</name>, and almost as <rs type="swear">fucking</rs> sexy. 
+              Vampire looked like <name ref="JM">Joel Madden</name>. B'loody Mary was <rs type="fashion">wearing a tight black poofy gothic dress that she had ripped so it showed of all 
+                 her <w norm="cleavage">clearage</w> with a white apron that said 'bich' and other swear words and MCR lyrics on it kind of like one dress I had seen <name ref="AL">Amy Lee</name> 
+                 wear once.</rs> <name ref="GW">Darkness</name> (who is <w norm="Ginny">Jenny</w>) was there too. She was <w norm="wearing">weaving</w> a <rs type="fashion">ripped gothic black dress with ripped stuff all over it and a 
+                    lace-up top thing and black pointy boots.</rs> So were <name ref="FW">Crab</name> and <name ref="GeW">Goyle</name>. It turns out that Darkness, Diabolo, Crab and Goyle's dad was a vampire.
+              He committed suicide by slitting his wrists with a razor. He had raped them and stuff before too. They all got so depressed that they 
+              became <w norm="gothic">goffik</w> and converted to Stanism.</p>
+           
+           <p><rs type="swear"><said who="Ebony"><w norm="Oh My Fucking God">OMFG</w></said></rs> I <w norm="yelled">yielded</w> as I jumped up. <said who="Ebony">Why the <rs type="swear">fuck</rs> are u all here</said>?</p>
+           
+           <p><said who="Draco"><w norm="Ebony">Enoby</w> something is really <rs type="swear">fucked</rs> up.</said> Draco said.</p>
+           
+           <p><said who="Ebony">OK but I need to put my <rs type="swear">fucking</rs> clothes on first.</said> I shouted angrily.</p>
+           
+           <p><said who="Draco">It's all right. We have to go now and you look <w norm="cute">kawaii</w> anyway. <w norm="You're">Your</w> so <rs type="swear">fucking</rs> beautiful.</said> Draco said in a sexy voice.</p>
+           
+           <p><said who="Ebony">Oh all right.</said> I said smiling. <said who="Ebony">But you have to tell me why your being all <w norm="secretive">erective</w>.</said></p>
+           
+           <p><said who="Draco">I will I will.</said> he said.</p>
+           
+           <p>So <rs type="fashion">I just put on some black eyeliner, black lipstick and red eyeshadow and white foundation.</rs> Then I came. 
+              We all went outside the Great <w norm="Hall">Hal</w> and looked in from a <w norm="window">widow</w>. A <rs type="swear">fucking</rs> prep called Britney from Griffindoor was standing next to us.
+              She was <rs type="fashion">wearing a pink mini and a <name ref="HD">Hilary Duff</name> t-shirt</rs> so we put up our middle fingers at her. Inside the Great Hall we could see 
+              <name ref="AD"><w norm="Dumbledore">Dumbledork</w></name>. <name ref="CF"><w norm="Cornelius Fudge">Cornelia Fudged</w></name> was there shouting at Dumbledore. <name ref="DU"><w norm="Doris Umbridge">Doris Rumbridge</w></name> was there too.</p>
+           
+           <p><said who="Umbridge">THIS CANNOT BE!</said> she shouted angrily. <said who="Umbridge">THE SCHOOL MUST BE CLOSED!</said></p>
+           
+           <p><said who="Fudge">THE <w norm="dark">BARK</w> LORD IS PLANNING TO KILL THE STUDENTS!</said> yelled <w norm="Cornelius">Cornelia Fudge</w>.</p>
+           
+           <p><said who="Umbridge">YOU ARE NOT FIT TO BE THE PRINCIPAL ANY LONGER!</said> yelled <w norm="Umbridge">Rumbridge.</w> <said who="Umbridge">YOU ARE TOO OLD AND YOUR ALZHEIMERS IS DANGEROUS! 
+                 YOU MUST <w norm="retire">RETRY</w> OR VOLDEMORT WILL KILL YOUR STUDENTS!</said></p>
+           
+           <p><said who="Dumbledore">Very well</said>. Dumbledore said angrily. <said who="Dumbledore"><w norm="but">Butt</w> we cannot do this. We can't close the school. 
+                 There is only one person who is capable of killing Voldemort and she is in the school. 
+                 And her name is…..Enony Dark'ness Dementia Raven Way.</said></p>
+           
+           <p>Draco, Crab, Goyle, Darkness, Willow, Vampire and B'loody Mary looked at each other…I gasped.</p>
+        </body>
+     </text>
+</TEI>

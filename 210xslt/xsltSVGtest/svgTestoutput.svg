@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1000">
+   <desc>SVG created from My Immortal Chapters 21-25</desc>
+   <g transform="translate(20 900)">
+      <g class="Dialogue"><!--Color intensifier factor: 22.272727272727272727--><!--
+                       Said: Ebony Draco Vampire Vampire Ebony Vampire Filch Filch Vampire Ebony Ebony Draco Ebony Ebony Draco Ebony Draco Ebony Ebony Draco Umbridge Umbridge Fudge Umbridge Umbridge Dumbledore Dumbledore Umbridge Dumbledore Dumbledore Ebony Draco Draco Ebony Draco Vampire Voldemort Voldemort Ebony Voldemort Voldemort Ebony Draco Ebony Vampire Ebony Ebony Ebony Bloody Mary Bloody Mary Ebony Trelawney Trelawney Trelawney Ebony Ebony Trelawney Ebony Trelawney Trelawney Trelawney Ebony Ebony Trelawney Ebony Trelawney Ebony Ebony Ebony Ebony Lupin and Serious Ebony Draco
+                      Sorted Said: Bloody Mary Draco Dumbledore Ebony Filch Fudge Lupin and Serious Trelawney Umbridge Vampire Voldemort
+                       Counting All Saids: 73
+                        Counting All Saids * y-spacer: -365-->
+         <text x="0" y="-850" style="text-anchor: middle; font-size:1.5em;">Who Spoke the Most in Chapters 21-25
+        of My Immortal?</text>
+         <line id="allSaid"
+               x1="0"
+               x2="0"
+               stroke-width="200"
+               y1="0"
+               y2="-365"
+               stroke="rgb(200,200,200)"/>
+         <g class="Said"><!--Bloody Mary: 
+            Position 1--><!--
+                     How many Saids here? 0--><!--
+                All the previous counts: 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="0"
+                  stroke-width="200"
+                  stroke="rgb(22.272727272727272727,200,200)"/>
+            <text x="200" y="0" style="text-anchor: middle">Bloody Mary: 0 Said
+                </text>
+         </g>
+         <g class="Said"><!--Draco: 
+            Position 2--><!--
+                     How many Saids here? 0--><!--
+                All the previous counts: 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="0"
+                  stroke-width="200"
+                  stroke="rgb(44.545454545454545454,200,200)"/>
+            <text x="200" y="0" style="text-anchor: middle">Draco: 0 Said
+                </text>
+         </g>
+         <g class="Said"><!--Dumbledore: 
+            Position 3--><!--
+                     How many Saids here? 0--><!--
+                All the previous counts: 0 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="0"
+                  stroke-width="200"
+                  stroke="rgb(66.818181818181818181,200,200)"/>
+            <text x="200" y="0" style="text-anchor: middle">Dumbledore: 0 Said
+                </text>
+         </g>
+         <g class="Said"><!--Ebony: 
+            Position 4--><!--
+                     How many Saids here? 0--><!--
+                All the previous counts: 0 0 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="0"
+                  stroke-width="200"
+                  stroke="rgb(89.090909090909090908,200,200)"/>
+            <text x="200" y="0" style="text-anchor: middle">Ebony: 0 Said
+                </text>
+         </g>
+         <g class="Said"><!--Filch: 
+            Position 5--><!--
+                     How many Saids here? 0--><!--
+                All the previous counts: 0 0 0 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="0"
+                  stroke-width="200"
+                  stroke="rgb(111.363636363636363635,200,200)"/>
+            <text x="200" y="0" style="text-anchor: middle">Filch: 0 Said
+                </text>
+         </g>
+         <g class="Said"><!--Fudge: 
+            Position 6--><!--
+                     How many Saids here? 0--><!--
+                All the previous counts: 0 0 0 0 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="0"
+                  stroke-width="200"
+                  stroke="rgb(133.636363636363636362,200,200)"/>
+            <text x="200" y="0" style="text-anchor: middle">Fudge: 0 Said
+                </text>
+         </g>
+         <g class="Said"><!--Lupin and Serious: 
+            Position 7--><!--
+                     How many Saids here? 0--><!--
+                All the previous counts: 0 0 0 0 0 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="0"
+                  stroke-width="200"
+                  stroke="rgb(155.909090909090909089,200,200)"/>
+            <text x="200" y="0" style="text-anchor: middle">Lupin and Serious: 0 Said
+                </text>
+         </g>
+         <g class="Said"><!--Trelawney: 
+            Position 8--><!--
+                     How many Saids here? 0--><!--
+                All the previous counts: 0 0 0 0 0 0 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="0"
+                  stroke-width="200"
+                  stroke="rgb(178.181818181818181816,200,200)"/>
+            <text x="200" y="0" style="text-anchor: middle">Trelawney: 0 Said
+                </text>
+         </g>
+         <g class="Said"><!--Umbridge: 
+            Position 9--><!--
+                     How many Saids here? 0--><!--
+                All the previous counts: 0 0 0 0 0 0 0 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="0"
+                  stroke-width="200"
+                  stroke="rgb(200.454545454545454543,200,200)"/>
+            <text x="200" y="0" style="text-anchor: middle">Umbridge: 0 Said
+                </text>
+         </g>
+         <g class="Said"><!--Voldemort: 
+            Position 10--><!--
+                     How many Saids here? 0--><!--
+                All the previous counts: 0 0 0 0 0 0 0 0 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="0"
+                  stroke-width="200"
+                  stroke="rgb(222.72727272727272727,200,200)"/>
+            <text x="200" y="0" style="text-anchor: middle">Voldemort: 0 Said
+                </text>
+         </g>
+         <g class="Said"><!--Vampire: 
+            Position 11--><!--
+                     How many Saids here? 1--><!--
+                All the previous counts: 0 0 0 0 0 0 0 0 0 0-->
+            <line x1="0"
+                  x2="0"
+                  y1="0"
+                  y2="-5"
+                  stroke-width="200"
+                  stroke="rgb(244.999999999999999997,200,200)"/>
+            <text x="200" y="-2.5" style="text-anchor: middle">Vampire: 1 Said
+                </text>
+         </g>
+      </g>
+   </g>
+</svg>
