@@ -1,0 +1,9 @@
+xml: tag++spacePattern.
+tag: ["A"-"Z"],["A"-"z"]+, "."?.
+spacePattern: newline, tab, newline.
+newline: #d?,#a.
+tab: #9.
+spaceBar: #20
+Effect: ~[#9;#d;#a]+
+move: name, type, cat, power, acc, pp.
+name: newline,  ["A"-"Z"],["A"-"z"]+.
